@@ -61,8 +61,8 @@ README〜ER図作成：６/1 〆切
 - Bootstrap
 - heroku
 - google map API
-- Twitter API
-- LINE API
+- Rails Hotwireを使って一部SPAとして実装
+- Rails ActionCableを使ってベルマーク通知
 
 ■画面遷移図
 
