@@ -63,3 +63,7 @@ README〜ER図作成：６/1 〆切
 - google map API
 - Rails Hotwireを使って一部SPAとして実装
 - Rails ActionCableを使ってベルマーク通知
+
+■画面遷移図
+
+Figma: https://www.figma.com/file/KQ2aJP5SwLXdLOzcgdv0sC/%E7%84%A1%E9%A1%8C?type=design&node-id=27%3A130&t=wJTYj95A54ph0wH6-1
