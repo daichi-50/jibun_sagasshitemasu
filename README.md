@@ -67,3 +67,7 @@ README〜ER図作成：６/1 〆切
 ■画面遷移図
 
 Figma: https://www.figma.com/file/KQ2aJP5SwLXdLOzcgdv0sC/%E7%84%A1%E9%A1%8C?type=design&node-id=27%3A130&t=wJTYj95A54ph0wH6-1
+
+■ER図
+
+diagrams.net: https://app.diagrams.net/#Hdaichi-50%2Fmake_ER%2Fmain%2F%E5%90%8D%E7%A7%B0%E6%9C%AA%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.drawio
